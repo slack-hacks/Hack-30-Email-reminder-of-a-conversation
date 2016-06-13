@@ -1,5 +1,5 @@
 <?php
-	// Include slack library from https://github.com/10w042/slack-api
+	// Include slack library from https://github.com/slack-hacks/slack-api
 	include 'Slack.php';
 
 	$Slack = new Slack('[API TOKEN]');
