@@ -1,8 +1,4 @@
-# Slack Chat Email Reminder
-
-A script, using Outgoing Webhooks which emails the requester the last 10 messages from the conversation.
-
-Number of messages can be customised in the code.
+# Hack #30: Email reminder of a conversation
 
 ## Credits
 
